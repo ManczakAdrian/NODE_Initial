@@ -1,0 +1,142 @@
+[
+  {
+    "gender": "male",
+    "firstName": "James",
+    "lastName": "Wilson",
+    "age": 64,
+    "email": "james.wilson@gmail.com"
+  },
+  {
+    "gender": "female",
+    "firstName": "Jennifer",
+    "lastName": "Brown",
+    "age": 32,
+    "email": "jennifer.brown@gmail.com"
+  },
+  {
+    "gender": "female",
+    "firstName": "Jennifer",
+    "lastName": "Anderson",
+    "age": 65,
+    "email": "jennifer.anderson@gmail.com"
+  },
+  {
+    "gender": "male",
+    "firstName": "James",
+    "lastName": "Smith",
+    "age": 58,
+    "email": "james.smith@gmail.com"
+  },
+  {
+    "gender": "female",
+    "firstName": "Linda",
+    "lastName": "Johnson",
+    "age": 21,
+    "email": "linda.johnson@gmail.com"
+  },
+  {
+    "gender": "male",
+    "firstName": "John",
+    "lastName": "Johnson",
+    "age": 42,
+    "email": "john.johnson@gmail.com"
+  },
+  {
+    "gender": "female",
+    "firstName": "Mary",
+    "lastName": "Brown",
+    "age": 35,
+    "email": "mary.brown@gmail.com"
+  },
+  {
+    "gender": "male",
+    "firstName": "David",
+    "lastName": "Smith",
+    "age": 56,
+    "email": "david.smith@gmail.com"
+  },
+  {
+    "gender": "male",
+    "firstName": "James",
+    "lastName": "Johnson",
+    "age": 68,
+    "email": "james.johnson@gmail.com"
+  },
+  {
+    "gender": "male",
+    "firstName": "Michael",
+    "lastName": "Smith",
+    "age": 35,
+    "email": "michael.smith@gmail.com"
+  },
+  {
+    "gender": "female",
+    "firstName": "Elizabeth",
+    "lastName": "Anderson",
+    "age": 58,
+    "email": "elizabeth.anderson@gmail.com"
+  },
+  {
+    "gender": "female",
+    "firstName": "Jennifer",
+    "lastName": "Brown",
+    "age": 39,
+    "email": "jennifer.brown@gmail.com"
+  },
+  {
+    "gender": "female",
+    "firstName": "Jennifer",
+    "lastName": "Wilson",
+    "age": 43,
+    "email": "jennifer.wilson@gmail.com"
+  },
+  {
+    "gender": "male",
+    "firstName": "Michael",
+    "lastName": "Davis",
+    "age": 63,
+    "email": "michael.davis@gmail.com"
+  },
+  {
+    "gender": "female",
+    "firstName": "Jennifer",
+    "lastName": "Johnson",
+    "age": 23,
+    "email": "jennifer.johnson@gmail.com"
+  },
+  {
+    "gender": "female",
+    "firstName": "Patricia",
+    "lastName": "Davis",
+    "age": 69,
+    "email": "patricia.davis@gmail.com"
+  },
+  {
+    "gender": "male",
+    "firstName": "Robert",
+    "lastName": "Johnson",
+    "age": 38,
+    "email": "robert.johnson@gmail.com"
+  },
+  {
+    "gender": "male",
+    "firstName": "Robert",
+    "lastName": "Wilson",
+    "age": 35,
+    "email": "robert.wilson@gmail.com"
+  },
+  {
+    "gender": "female",
+    "firstName": "Jennifer",
+    "lastName": "Wilson",
+    "age": 63,
+    "email": "jennifer.wilson@gmail.com"
+  },
+  {
+    "gender": "male",
+    "firstName": "James",
+    "lastName": "Wilson",
+    "age": 47,
+    "email": "james.wilson@gmail.com"
+  }
+]
